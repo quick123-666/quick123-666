@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/quick123-666/session-evolution-graph">session-evolution-graph</a> ·
   <a href="https://github.com/quick123-666/star-level">star-level</a> ·
   <a href="https://github.com/quick123-666/bounded-memory">bounded-memory</a> ·
   <a href="https://github.com/quick123-666/code-memex-lite">code-memex-lite</a> ·
@@ -30,16 +31,19 @@
 
 ---
 
-## 精选项目（建议 Pin 前 6 个）
+## 精选项目（建议在主页 Pin 这 6 个）
+
+> **Pin** 在 [个人主页](https://github.com/quick123-666) 点 **Customize your pins** 设置，不是在本 README 里改。  
+> **Topics** 在各项目仓库的 **About** 里设置（例如 [session-evolution-graph](https://github.com/quick123-666/session-evolution-graph)）。
 
 | 项目 | 一句话 |
 |------|--------|
+| [**session-evolution-graph**](https://github.com/quick123-666/session-evolution-graph) | 从会话提炼问题演化图谱 · Agent 教学课（中英双语） |
 | [**star-level**](https://github.com/quick123-666/star-level) | Next.js + Supabase：GitHub Star 经验与等级 |
 | [**bounded-memory**](https://github.com/quick123-666/bounded-memory) | 零依赖、面向 AI 助手的轻量记忆系统 |
 | [**code-memex-lite**](https://github.com/quick123-666/code-memex-lite) | 离线优先个人知识库 + AI 记忆 |
 | [**Claude-Bridge-claw**](https://github.com/quick123-666/Claude-Bridge-claw) | OpenClaw 使用 Claude Code 插件的桥接工具 |
 | [**network-backup-guardian**](https://github.com/quick123-666/network-backup-guardian) | AI 执行网络命令前快照，异常自动回滚 |
-| [**Caveman-Mode-lossless-claw**](https://github.com/quick123-666/Caveman-Mode-lossless-claw) | 在保持可用性前提下显著降低 AI 输出 Token |
 
 更多见 [Repositories](https://github.com/quick123-666?tab=repositories)。
 
