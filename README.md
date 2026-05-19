@@ -1,4 +1,4 @@
-<!-- Profile README for https://github.com/quick123-666 -->
+<!-- Profile README · https://github.com/quick123-666 -->
 
 <h1 align="center">Hi，我是 quick123-666 👋</h1>
 
@@ -8,12 +8,53 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/quick123-666/session-evolution-graph">session-evolution-graph</a> ·
-  <a href="https://github.com/quick123-666/star-level">star-level</a> ·
-  <a href="https://github.com/quick123-666/bounded-memory">bounded-memory</a> ·
-  <a href="https://github.com/quick123-666/code-memex-lite">code-memex-lite</a> ·
-  <a href="https://github.com/quick123-666/Claude-Bridge-claw">Claude-Bridge-claw</a>
+  <img src="https://img.shields.io/badge/专注-AI%20Agent%20%26%20图谱-blue?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/开放-合作%20%26%20Issue-2ea44f?style=for-the-badge" alt="open"/>
 </p>
+
+---
+
+## 🔥 代表作 · 点卡片直达仓库
+
+> 不依赖主页 Pin，下面就是我想让你先看到的项目（点标题或按钮进入）。
+
+### ⭐ Session Evolution Graph · 会话演化图谱
+
+<p align="left">
+  <a href="https://github.com/quick123-666/session-evolution-graph">
+    <img src="https://img.shields.io/github/stars/quick123-666/session-evolution-graph?style=social" alt="stars"/>
+  </a>
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/主题-Agent%20Harness-FF6B6B" alt="agent"/>
+  <img src="https://img.shields.io/badge/文档-中英双语-red" alt="bilingual"/>
+</p>
+
+**从 AI 对话里自动长出「问题演化图谱」** — 分章教学（s01→s03），对齐 GraphSpec。
+
+| | |
+|---|---|
+| **适合谁** | 想学 Agent 循环 / 工具 / 图谱，不想啃十万行源码的人 |
+| **你能得到** | 可运行的 Python 实验课 + 架构图 + 中英 README |
+| **立刻进入** | 👉 **[打开 session-evolution-graph](https://github.com/quick123-666/session-evolution-graph)** |
+
+```text
+Session 会话 → s01 提炼问题 → s02 写演化边 → s03 查演化链
+```
+
+---
+
+### 更多项目
+
+| | 项目 | 说明 | 进入 |
+|---:|------|------|------|
+| 🎮 | **star-level** | Next.js + Supabase · GitHub Star 等级 | [**进入 →**](https://github.com/quick123-666/star-level) |
+| 🧠 | **bounded-memory** | 零依赖 AI 轻量记忆 | [**进入 →**](https://github.com/quick123-666/bounded-memory) |
+| 📚 | **code-memex-lite** | 离线知识库 + AI 记忆 | [**进入 →**](https://github.com/quick123-666/code-memex-lite) |
+| 🔌 | **Claude-Bridge-claw** | OpenClaw ↔ Claude Code 桥接 | [**进入 →**](https://github.com/quick123-666/Claude-Bridge-claw) |
+| 🛡️ | **network-backup-guardian** | AI 改网络前自动快照回滚 | [**进入 →**](https://github.com/quick123-666/network-backup-guardian) |
+| ⚡ | **Caveman-Mode-lossless-claw** | 降低 AI 输出 Token ~75% | [**进入 →**](https://github.com/quick123-666/Caveman-Mode-lossless-claw) |
+
+[**查看全部 37+ 仓库 →**](https://github.com/quick123-666?tab=repositories)
 
 ---
 
@@ -21,31 +62,11 @@
 
 | 方向 | 说明 |
 |------|------|
-| **AI 助手与记忆系统** | 轻量记忆、会话图谱、FAISS 语义检索、Token 优化（Caveman-Mode 等） |
-| **OpenClaw / Claude 生态** | 插件桥接、工作流集成、本地/离线优先知识库 |
-| **Web 应用** | Next.js + Supabase 全栈（订阅、Auth、Edge Functions） |
-| **自动化与运维脚本** | PowerShell 网络配置守护、批处理/守护类工具 |
-| **Python 工具与服务** | Streamlit、多 Agent 协作、规则/图谱引擎 |
-
-适合：**小团队 MVP、内部工具、遗留系统旁路新功能、AI 能力接入现有产品**。
-
----
-
-## 精选项目（建议在主页 Pin 这 6 个）
-
-> **Pin** 在 [个人主页](https://github.com/quick123-666) 点 **Customize your pins** 设置，不是在本 README 里改。  
-> **Topics** 在各项目仓库的 **About** 里设置（例如 [session-evolution-graph](https://github.com/quick123-666/session-evolution-graph)）。
-
-| 项目 | 一句话 |
-|------|--------|
-| [**session-evolution-graph**](https://github.com/quick123-666/session-evolution-graph) | 从会话提炼问题演化图谱 · Agent 教学课（中英双语） |
-| [**star-level**](https://github.com/quick123-666/star-level) | Next.js + Supabase：GitHub Star 经验与等级 |
-| [**bounded-memory**](https://github.com/quick123-666/bounded-memory) | 零依赖、面向 AI 助手的轻量记忆系统 |
-| [**code-memex-lite**](https://github.com/quick123-666/code-memex-lite) | 离线优先个人知识库 + AI 记忆 |
-| [**Claude-Bridge-claw**](https://github.com/quick123-666/Claude-Bridge-claw) | OpenClaw 使用 Claude Code 插件的桥接工具 |
-| [**network-backup-guardian**](https://github.com/quick123-666/network-backup-guardian) | AI 执行网络命令前快照，异常自动回滚 |
-
-更多见 [Repositories](https://github.com/quick123-666?tab=repositories)。
+| **AI 助手与记忆 / 图谱** | 会话演化图、FAISS 检索、bounded-memory、session-evolution-graph |
+| **OpenClaw / Claude 生态** | 插件桥接、工作流、本地知识库 |
+| **Web 全栈** | Next.js + Supabase（Auth、Edge Functions） |
+| **自动化脚本** | PowerShell 网络守护、批处理工具 |
+| **Python 服务** | Streamlit、多 Agent、规则引擎 |
 
 ---
 
@@ -57,25 +78,24 @@
 
 ## 合作方式
 
-- 需求澄清 → 小步提交（清晰 commit）→ 可运行 Demo / Staging 验证  
-- 接受 **按里程碑** 或 **按工时** 的短期项目；长期维护可谈  
-- 中文 / 简单英文沟通均可  
+- 需求澄清 → 小步提交 → 可运行 Demo / Staging 验证  
+- 按 **里程碑** 或 **工时**；中文 / 简单英文均可  
 
-**有项目想法？** 请通过 GitHub Issues 在对应仓库提问，或邮件联系：
-
-📧 [1539489228@qq.com](mailto:1539489228@qq.com) · 时区 UTC+8
+📧 **[1539489228@qq.com](mailto:1539489228@qq.com)** · 时区 UTC+8 · 也可在对应仓库开 **Issue**
 
 ---
 
 ## 最近在做什么
 
-- 维护 **star-level**（i18n、Supabase Auth、GitHub OAuth）  
-- AI 记忆与 **bounded-memory** / **code-memex-lite** 相关工具  
-- OpenClaw / Claude 插件桥接与 Token 优化实验  
+- 🔥 **[session-evolution-graph](https://github.com/quick123-666/session-evolution-graph)** — 会话 → 演化图谱 Agent 课（持续更新）  
+- **star-level** — i18n、Supabase Auth、GitHub OAuth  
+- **bounded-memory** / **code-memex-lite** — AI 记忆与知识库  
+- **Claude-Bridge-claw** — OpenClaw 插件与 Token 优化  
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/quick123-666?style=social" alt="followers"/>
-  <img src="https://img.shields.io/badge/Open%20to%20collaboration-yes-2ea44f" alt="open"/>
+  <br/><br/>
+  <sub>⭐️ 欢迎 Star 上面任一仓库 · 你的支持能让项目被更多人发现</sub>
 </p>
-
-<p align="center"><sub>⭐️ 若某个仓库对你有用，欢迎 Star，也方便被更多人发现</sub></p>
