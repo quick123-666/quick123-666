@@ -86,7 +86,7 @@ Session 会话 → s01 提炼问题 → s02 写演化边 → s03 查演化链
 
 | 方向 | 说明 |
 |------|------|
-| **AI 助手与记忆 / 图谱** | 会话演化图、FAISS 检索、bounded-memory、session-evolution-graph |
+| **AI 助手与记忆 / 图谱** | 工具链管理课、会话演化图、FAISS 检索、bounded-memory、toolchain-manager-course / session-evolution-graph |
 | **OpenClaw / Claude 生态** | 插件桥接、工作流、本地知识库 |
 | **Web 全栈** | Next.js + Supabase（Auth、Edge Functions） |
 | **自动化脚本** | PowerShell 网络守护、批处理工具 |
