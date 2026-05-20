@@ -18,31 +18,6 @@
 
 > 不依赖主页 Pin，下面就是我想让你先看到的项目（点标题或按钮进入）。
 
-### ⭐ Toolchain Manager Course · 工具链管理 Agent 教学课
-
-<p align="left">
-  <a href="https://github.com/quick123-666/toolchain-manager-course">
-    <img src="https://img.shields.io/github/stars/quick123-666/toolchain-manager-course?style=social" alt="stars"/>
-  </a>
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white" alt="python"/>
-  <img src="https://img.shields.io/badge/主题-Toolchain%20Manager-FF6B6B" alt="toolchain"/>
-  <img src="https://img.shields.io/badge/文档-中英双语-red" alt="bilingual"/>
-</p>
-
-**从零搭建工具链管理 Agent** — 6 章递增式教学（内存 CRUD → SQLite → 工具注册 → 项目生命周期 → FastAPI → Vue 前端）。
-
-| | |
-|---|---|
-| **适合谁** | 想学 Agent 工具链 / 项目管理 / 全栈小系统，不想啃复杂框架的人 |
-| **你能得到** | 可运行的分章 Python 课 + REST API + 单页前端 + 中英 README |
-| **立刻进入** | 👉 **[打开 toolchain-manager-course](https://github.com/quick123-666/toolchain-manager-course)** |
-
-```text
-tools[] 工具列表 → s01 CRUD → s04 项目生命周期 → s05 API → s06 前端
-```
-
----
-
 ### ⭐ Session Evolution Graph · 会话演化图谱
 
 <p align="left">
@@ -76,6 +51,7 @@ Session 会话 → s01 提炼问题 → s02 写演化边 → s03 查演化链
 | 🧠 | **bounded-memory** | 零依赖 AI 轻量记忆 | [**进入 →**](https://github.com/quick123-666/bounded-memory) |
 | 📚 | **code-memex-lite** | 离线知识库 + AI 记忆 | [**进入 →**](https://github.com/quick123-666/code-memex-lite) |
 | 🔌 | **Claude-Bridge-claw** | OpenClaw ↔ Claude Code 桥接 | [**进入 →**](https://github.com/quick123-666/Claude-Bridge-claw) |
+| 🛡️ | **network-backup-guardian** | AI 改网络前自动快照回滚 | [**进入 →**](https://github.com/quick123-666/network-backup-guardian) |
 | ⚡ | **Caveman-Mode-lossless-claw** | 降低 AI 输出 Token ~75% | [**进入 →**](https://github.com/quick123-666/Caveman-Mode-lossless-claw) |
 
 [**查看全部 37+ 仓库 →**](https://github.com/quick123-666?tab=repositories)
@@ -86,7 +62,7 @@ Session 会话 → s01 提炼问题 → s02 写演化边 → s03 查演化链
 
 | 方向 | 说明 |
 |------|------|
-| **AI 助手与记忆 / 图谱** | 工具链管理课、会话演化图、FAISS 检索、bounded-memory、toolchain-manager-course / session-evolution-graph |
+| **AI 助手与记忆 / 图谱** | 会话演化图、FAISS 检索、bounded-memory、session-evolution-graph |
 | **OpenClaw / Claude 生态** | 插件桥接、工作流、本地知识库 |
 | **Web 全栈** | Next.js + Supabase（Auth、Edge Functions） |
 | **自动化脚本** | PowerShell 网络守护、批处理工具 |
@@ -111,8 +87,7 @@ Session 会话 → s01 提炼问题 → s02 写演化边 → s03 查演化链
 
 ## 最近在做什么
 
-- 🔥 **[toolchain-manager-course](https://github.com/quick123-666/toolchain-manager-course)** — 工具链管理 Agent 分章教学课（6 章递增）  
-- **[session-evolution-graph](https://github.com/quick123-666/session-evolution-graph)** — 会话 → 演化图谱 Agent 课（持续更新）  
+- 🔥 **[session-evolution-graph](https://github.com/quick123-666/session-evolution-graph)** — 会话 → 演化图谱 Agent 课（持续更新）  
 - **star-level** — i18n、Supabase Auth、GitHub OAuth  
 - **bounded-memory** / **code-memex-lite** — AI 记忆与知识库  
 - **Claude-Bridge-claw** — OpenClaw 插件与 Token 优化  
