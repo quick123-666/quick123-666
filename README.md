@@ -47,12 +47,12 @@ Session 会话 → s01 提炼问题 → s02 写演化边 → s03 查演化链
 
 | | 项目 | 说明 | 进入 |
 |---:|------|------|------|
+| 🛠️ | **toolchain-manager-course** | 工具链管理 Agent · 6 章递增教学 | [**进入 →**](https://github.com/quick123-666/toolchain-manager-course) |
 | 🎮 | **star-level** | Next.js + Supabase · GitHub Star 等级 | [**进入 →**](https://github.com/quick123-666/star-level) |
 | 🧠 | **bounded-memory** | 零依赖 AI 轻量记忆 | [**进入 →**](https://github.com/quick123-666/bounded-memory) |
 | 📚 | **code-memex-lite** | 离线知识库 + AI 记忆 | [**进入 →**](https://github.com/quick123-666/code-memex-lite) |
 | 🔌 | **Claude-Bridge-claw** | OpenClaw ↔ Claude Code 桥接 | [**进入 →**](https://github.com/quick123-666/Claude-Bridge-claw) |
 | 🛡️ | **network-backup-guardian** | AI 改网络前自动快照回滚 | [**进入 →**](https://github.com/quick123-666/network-backup-guardian) |
-| ⚡ | **Caveman-Mode-lossless-claw** | 降低 AI 输出 Token ~75% | [**进入 →**](https://github.com/quick123-666/Caveman-Mode-lossless-claw) |
 
 [**查看全部 37+ 仓库 →**](https://github.com/quick123-666?tab=repositories)
 
